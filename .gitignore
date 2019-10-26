@@ -1,0 +1,10 @@
+
+.idea/$PRODUCT_WORKSPACE_FILE$
+Test_FX.iml
+out/production/Test_FX/sample/sample.fxml
+out/production/Test_FX/sample/Main.class
+out/production/Test_FX/sample/Controller.class
+out/production/Test_FX/module-info.class
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
